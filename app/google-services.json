@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36641231785",
+    "project_id": "the-reality-seinmade",
+    "storage_bucket": "the-reality-seinmade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36641231785:android:666047acec48e9c89ceab8",
+        "android_client_info": {
+          "package_name": "com.princesein.thereality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36641231785-6l7ru9ijm2965a5qpq5hjsj2jhik8fq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABxQsQyznQ87z6VTIFyOwPWwbhZuJqSaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36641231785-6l7ru9ijm2965a5qpq5hjsj2jhik8fq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
